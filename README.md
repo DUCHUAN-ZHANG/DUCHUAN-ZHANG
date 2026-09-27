@@ -1,4 +1,4 @@
-# Hi, I'm Duchuan Zhang ⚡
+# Hi, I'm Duchuan Zhang 👋
 
 I'm an aspiring **Electrical & Electronics Engineer** building a foundation across hardware and software. I'm currently exploring different EEE paths through practical projects before choosing a specialization.
 
